@@ -17,7 +17,7 @@
     "require": {
         "sabre/dav": "1.8.*",
         "php": ">=5.3.1",
-        "sabre/vobject" : "2.*.*",
+        "sabre/vobject" : "2.1.*",
         "monolog/monolog": "1.9.*",
         "ext-dom": "*",
         "ext-pcre": "*",
